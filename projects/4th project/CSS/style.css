@@ -1,0 +1,49 @@
+body{
+    background-image: url("../image/Bugatti.jpg.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.first{
+       
+    text-align: center;
+    color: #ccc90d;
+    letter-spacing: 35px;
+    margin-top: 80px;
+    font-size: 30px;
+
+}
+
+.second{
+    text-align: center;
+    color: #fdfdfd;
+    letter-spacing:15px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.button{
+    border-radius: 28px;
+    width: 180px;
+    height: 50px;
+      color: rgb(12, 11, 11);
+      background:linear-gradient(rgba(209, 212, 24, 0.74),rgba(87, 235, 28, 0.39));
+      margin-top: 300px;
+   margin-left: 450px;
+   margin-right: 100px;
+   font-weight: bold;
+   
+
+}
+.button1{
+    border-radius: 28px;
+    width: 180px;
+    height: 50px;
+      color: rgb(12, 11, 11);
+      background:linear-gradient(rgba(209, 212, 24, 0.74),rgba(98, 161, 74, 0.2));
+      margin-top: 300px;
+      font-weight: bold;
+
+
+}

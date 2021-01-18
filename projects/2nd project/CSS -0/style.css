@@ -1,0 +1,25 @@
+body{
+background-color: rgb(102, 148, 150);
+
+}
+
+.pics{
+    background-color:rgba(93, 81, 197, 0.2) ;
+width: 1;
+height: 35em;
+margin: 1em;
+}
+.pics img{
+
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 10px;
+    
+    
+}
+.pics h1{
+    letter-spacing: 5px;
+    color: rgb(250, 246, 242);
+    
+}
